@@ -1,5 +1,5 @@
 numpy == 1.21.5
-protobuf == 3.16.0
+protobuf == 5.29.6
 pytest
 nbval
 ipython
